@@ -3,7 +3,7 @@
 /**
  * Display WooCommerce Products professionally
  *
- * @package Oleksandr S.
+ * @package wpwebmaster0313.
  * @since 1.0.0
  */
 
