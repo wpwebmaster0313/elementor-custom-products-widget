@@ -11,7 +11,7 @@
 Plugin Name: Olek Products Pro
 Plugin URI:
 Description: Olek Products Pro plugin is to customize products layout and provide extensions for category and subcategory pages
-Author: Oleksandr S.
+Author: wpwebmaster0313.
 Version: 1.0
 Author URI:
 Tags: woocommerce, products, categories, subcategories, product, category, subcategory
